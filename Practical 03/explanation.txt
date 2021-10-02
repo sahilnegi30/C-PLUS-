@@ -1,0 +1,2 @@
+>>In question 1st the compiler cannot compile the program in first, because in situation where one is int and float are in fuction that give warning in my computer. i have mac os so  didn't compile rather give warning but in linux that type cast the float in int and compile and give output.
+>>so in question  2 same problem occurs until i change the data type float to int.
